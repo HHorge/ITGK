@@ -1,4 +1,3 @@
 # ITGK
 Øvinger i ITGK
-Alle øvingene jeg gjorde til ITGK H2017
-Edit 2
+All assignments I did for ITGK F2017
